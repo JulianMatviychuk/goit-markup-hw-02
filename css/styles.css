@@ -22,6 +22,10 @@ body {
 
 /* -----------------------header------------------------- */
 
+.nav-menu .link.current {
+    color: var(--accent-color);
+}
+
 .logo {
   font-family: Raleway, sans-serif;
   font-style: normal;
